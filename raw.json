@@ -1,0 +1,27 @@
+[
+{
+"key":"extractorKey",
+"value":"lampe1",
+"title":"extractor"
+},
+
+{
+"key":"extractorUrl",
+"value":"http://157.230.67.147/t_api/simplehtmldom_1_5/my_parsers/scraping/my_scraper4.php",
+"title":"extractor url"
+},
+
+{
+"key":"popcornUrl",
+"value":"https://api.apiabcd.com/",
+"title":"apiABCD"
+},
+
+
+{
+"key":"snowKey",
+"value":"dsiomwIJlNssxTBFfEPwiYKdLlyECUUwMseAsJrzoM",
+"title":"snowfl"
+}
+
+]
